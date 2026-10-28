@@ -84,7 +84,7 @@ This project addresses important business questions to help understand customer 
 
 The interactive dashboard provides a visual overview of customer churn and relevant business metrics, helping users explore patterns and compare customer segments.
 
-![Customer Churn Analysis Dashboard]\(Customer_Churn_Analysis_Dashboard_Screenshot.png)
+![Customer Churn Analysis Dashboard](Customer_Churn_Analysis_Dashboard_Screenshot.png)
 
 ## 💡 Key Insights
 
